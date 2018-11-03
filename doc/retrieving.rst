@@ -135,7 +135,7 @@ questiondata
 ~~~~~~~~~~~~
 
 The questiondata sub-object contains all items recorded using
-`psiturk.recordUnstructuredlData()
+`psiturk.recordUnstructuredData()
 <./api.html#psiturk-recordunstructureddata-field-value>`__.
 
 .. code-block:: javascript
